@@ -1685,31 +1685,52 @@ The biggest issue on Day 1 was careless execution, not complete lack of understa
 Main problems:
 
 writing syntax carelessly
+
 inconsistent naming
+
 not doing a final self-check
+
 answering too quickly without verifying whether the query fully matches the question
+
 Day 1 Correction Strategy
+
 Java self-check before submission
+
 Is the data type correct?
+
 Are variable names consistent?
+
 Is the constructor written correctly?
+
 Does the method return type match the logic?
+
 Are method names correct?
+
 Are conditions written properly?
+
 SQL self-check before submission
+
 Is the table name correct?
+
 Is the column name correct?
+
 Is SELECT spelled correctly?
+
 Are string values written in single quotes?
+
 Did I answer exactly what the question asked?
-Final Day 1 Summary
+
+#Final Day 1 Summary
+
 OOPS covered
 access modifiers
 inheritance
 class member visibility
 IS-A relationship
 constructor behavior in inheritance
+
 SQL covered
+
 database / DBMS / RDBMS
 table / row / column
 primary key / foreign key
@@ -1718,6 +1739,8 @@ WHERE
 DISTINCT
 ORDER BY
 COUNT
+
+
 Overall takeaway
 
 Concept understanding is developing well, but execution needs discipline and final checking.
