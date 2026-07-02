@@ -1,4 +1,4 @@
-# OOPS Day 1 - Access Modifiers and Inheritance
+#  Day 1 - Access Modifiers and Inheritance and SQL
 
 ## Why this topic matters
 
