@@ -767,7 +767,7 @@ Kavya is coding in Java
 | 3 | Priya | AI | 60000 | Bangalore |
 | 4 | Arjun | Data | 80000 | Pune |
 | 5 | Kavya | Java | 75000 | Hyderabad |
-| 6 | Deepak | AI | 65000 | Bangalore |
+| 6 | Unni | AI | 65000 | Bangalore |
 | 7 | Sneha | Data | 85000 | Pune |
 
 ### Questions and Solutions
