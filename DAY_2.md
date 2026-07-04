@@ -132,7 +132,7 @@ class Child extends Parent {
 Method overriding allows a child class to provide a specific implementation of a method that is already defined in its parent class.
 
 **Rules for Method Overriding:**
-1. Method name must be same
+1. Method name must be same.
 2. Return type must be same (or covariant)
 3. Parameter list must be same
 4. Access modifier cannot be more restrictive
